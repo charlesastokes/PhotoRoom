@@ -1,3 +1,11 @@
+#PhotoRoom
+
+PhotoRoom is a fork of Snapdrop, currently this is a work in progress 
+
+PhotoRoom is intended the solve the challenge of guests at a remote venue with no internet being able to all upload their photos at the event site to a central location. Both Android and iOS have to be supported, otherwise something like AirDrop would be used if it was just iOS.
+
+More details will be added in future MergeRequests as to the intention of this project and it's use case, and this readme will be updated.
+
 # Snapdrop 
 
 [Snapdrop](https://snapdrop.net): local file sharing in your browser. Inspired by Apple's Airdrop.
